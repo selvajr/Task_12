@@ -2,6 +2,5 @@
 
   ###  __1.Event-Update-Page__
  
-  * __[Event-Update-Folder__]__(./Event-Update-Folder/)
-  * __[Event-Update-HTML-Page]__(./Event-Update-Folder/index.html)
-  * __[Event-Update-Page-CSS]__(./Event-Update-Folder/CSS/styles.css)
+  * __[Event-Update-HTML-Page](./index.html)__
+  * __[Event-Update-Page-CSS](./CSS/styles.css)__
